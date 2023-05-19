@@ -5,7 +5,9 @@
 
 1.Run the musicplayer.py file:
   In the Command Line interface, type the following command to run the App
-  """python musicplayer.py"""
+  '''
+  python musicplayer.py
+  '''
   
 2.Load Your MP3 audio:
   In order to play the music, you will need to load your desired MP3 Audio into the Music Player.In the opened application interface, click on the 'LOAD' button, then select your preferred audio(The audio file must be in MP3 format)
